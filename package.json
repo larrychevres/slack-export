@@ -1,0 +1,13 @@
+{
+  "name": "slack-backup",
+  "version": "0.0.1",
+  "description": "New York Media's seed content generator.",
+  "author": "New York Media",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird":"^2.9.24"
+  }
+}
